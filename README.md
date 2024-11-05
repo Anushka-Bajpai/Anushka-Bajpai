@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+<!-- ![Header](./github-header-image.png)
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka-bajpai&label=Profile%20views&color=0e75b6&style=flat" alt="anushka-bajpai" /> </p>
@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka-bajpai&show_icons=true&locale=en" alt="anushka-bajpai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka-bajpai&" alt="anushka-bajpai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka-bajpai&" alt="anushka-bajpai" /></p> -->
